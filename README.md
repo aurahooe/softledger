@@ -1,2 +1,4 @@
-# softledger
-Soft Ledger — a small public wall. Private drafts stay in the drawer.
+# Soft Ledger
+
+A small public wall. Drafts stay in your drawer unless you mark them public.
+The hour turns the front page.
